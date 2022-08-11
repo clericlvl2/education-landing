@@ -3,6 +3,6 @@
   height: 890px;
   padding-top: 100px;
   box-sizing: border-box;
-  background: #f2f2f2 url('/images/feynman.png') no-repeat left bottom;
+  background: #f2f2f2 url('../../images/feynman.png') no-repeat left bottom;
   background-size: 867px 637px;
 }
