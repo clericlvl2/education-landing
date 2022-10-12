@@ -6,7 +6,7 @@
 
 Работа выполнена в рамках учебной программы Яндекс.Практикум.
 
-[Ссылка на страницу проекта](https://clericlvl2.github.io/how-to-learn/index.html)
+[Ссылка на страницу проекта](https://clericlvl2.github.io/education-landing/)
 
 ### При вёрстке страницы использовались:
 
